@@ -38,22 +38,54 @@
 
 ---
 
-## 🚀 Open Source
+## 🚀 My Apps
+
+### [LeetFlow — AI-Powered DSA Prep](https://play.google.com/store/apps/details?id=com.nativeknights.leetflow)
+> Stop wandering through 3000+ LeetCode problems aimlessly. LeetFlow is your AI-powered DSA companion that eliminates decision fatigue and creates personalized learning paths for FAANG and tech interview prep.
+
+[![Play Store](https://img.shields.io/badge/Play%20Store-Available-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.nativeknights.leetflow)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/theadityatiwari/leetflow-android)
+![Kotlin](https://img.shields.io/badge/Kotlin-100%25-purple)
+![Gemini](https://img.shields.io/badge/Gemini%202.0-Powered-blue)
+
+**What's inside:**
+- 🎯 **Smart Problem Selector** — AI recommends your next problem based on weak topics and history
+- 🔍 **Solution Analyzer** — paste code → get complexity analysis, pattern detection, optimized version
+- 🧠 **Flashcards** — spaced repetition recall notes auto-generated from solved problems
+- 🗺️ **Topic Roadmap** — pattern-based study plans with company preferences (Google, Meta, Amazon)
+- ⚡ **Complexity Blitz** — gamified Big-O training across 6 languages
+- ⚔️ **ShowDown** — compare two LeetCode profiles head-to-head across 8 categories
+- 🔒 **Privacy first** — no account needed, all data local, API key encrypted with AES-256
+
+Built solo with Kotlin · Jetpack Compose · Gemini 2.0 SDK · MVVM · Clean Architecture · Room
+
+---
+
+### [Mamily — Pregnancy & Maternal Care](https://play.google.com/store/apps/details?id=com.mamily.android)
+> Maternal healthcare super-app spanning 6 life stages — **100K+ downloads · Sole Android Developer**
+
+[![Play Store](https://img.shields.io/badge/Play%20Store-Available-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.mamily.android)
+
+- Real-time video consultations via Agora SDK — bookings grew 4x YoY
+- Lab booking, diet tracking, yoga, community support
+- 20+ custom Canvas views — BMI arc, baby teeth selector, temperature picker
+- Full app instrumented with CleverTap across 80+ screens
+
+---
+
+## 📦 Open Source Libraries
 
 ### [RulerKit](https://github.com/theadityatiwari/RulerKit)
-> Canvas-powered horizontal ruler picker for Android · Jetpack Compose + XML · Auto unit conversion · Fling snap animation
+> Canvas-powered horizontal ruler picker — Jetpack Compose + XML · Auto unit conversion · Fling snap
 
 [![JitPack](https://jitpack.io/v/theadityatiwari/RulerKit.svg)](https://jitpack.io/#theadityatiwari/RulerKit)
-![Kotlin](https://img.shields.io/badge/Kotlin-100%25-purple)
 ![MIT](https://img.shields.io/badge/License-MIT-yellow)
-
-Started as a weight picker built for Mamily's BMI tracking screen — expanded into a full generic library.
 ```kotlin
 implementation("com.github.theadityatiwari:RulerKit:v1.0.1")
 ```
 
 ### BmiResultView *(coming soon)*
-> Production-grade BMI arc visualiser — built line by line from scratch for Mamily · Canvas-powered · Fully customizable
+> Production-grade BMI arc visualiser — built line by line from scratch for Mamily · Canvas-powered
 
 ---
 
@@ -61,24 +93,11 @@ implementation("com.github.theadityatiwari:RulerKit:v1.0.1")
 ```
 Mobile       Kotlin · Java · Android SDK · Jetpack Compose · React Native
 Architecture MVVM · Clean Architecture · MVC
-UI           Canvas API · Custom Views · Material Design · XML
+UI           Canvas API · Custom Views · Material Design
 Libraries    Agora SDK · CleverTap · Retrofit · Room · Hilt · Coil · Glide
+AI           Google Gemini 2.0 SDK
 Tools        Firebase · Postman · Figma · Git · Android Studio
 ```
-
----
-
-## 📦 Featured Project
-
-### [Mamily — Pregnancy & Maternal Care App](https://play.google.com/store/apps/details?id=com.mamily.android)
-**100K+ downloads · Sole Android Developer**
-
-A maternal healthcare super-app spanning 6 life stages — fertility, pregnancy, parenting and beyond.
-
-- Real-time video consultations via Agora SDK
-- Lab booking, diet tracking, yoga sessions
-- Custom health trackers built entirely on Canvas API
-- Full app instrumented with CleverTap
 
 ---
 
