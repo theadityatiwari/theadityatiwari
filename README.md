@@ -1,38 +1,119 @@
-<h1 align="center">Hi 👋, I'm Aditya Tiwari</h1>
-<h3 align="center">A Mobile Application developer from India</h3>
+<h1 align="center">Hey, I'm Aditya Tiwari 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theadityatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="theadityatiwari" /> </p>
+<p align="center">
+  <b>Android Developer · 4+ Years · Sole Dev on a 100K+ Download App</b><br/>
+  Building production Android apps, open source libraries, and grinding DSA daily
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theadityatiwari" alt="theadityatiwari" /></a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/theadityatiwari">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/theadityatiwari">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://medium.com/@theadityatiwari">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:adityat9179@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on [Task Ninja 2.0](https://github.com/theadityatiwari/7-day-Android-App-Challenge/tree/main/AdityaTiwari/TaskNinja20)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theadityatiwari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-- 🌱 I’m currently learning **Jetpack Compose and Dependency Injections(Dagger,Hilt),MVI and KMP**
+---
 
-- 📝 I regularly write articles on [https://medium.com/@theadityatiwari](https://medium.com/@theadityatiwari)
+## 🧑‍💻 About Me
 
-- 📫 How to reach me **adityat9179@gmail.com**
+- 🏥 Sole Android developer at **Mamily** — maternal healthcare super-app with **100K+ downloads**
+- 🎥 Shipped real-time video consultation using **Agora SDK** — bookings grew 4x YoY post-launch
+- 🎨 Built **20+ custom Canvas API views** for production — BMI arc, baby teeth selector, temperature picker
+- 📊 Instrumented **80+ screens** with CleverTap — feature engagement grew 10x YoY
+- ⚡ Eliminated **83% of redundant API calls** via session-based caching at scale
+- 🔥 LeetCode **1500+ rating · 148-day streak** and still going
+- 📦 Open source library author — **RulerKit** · **BmiResultView** (coming soon)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NpyKzETQ3psPEm7AH1XEjbnFP6bn4TCC/view?usp=sharing](https://drive.google.com/file/d/1NpyKzETQ3psPEm7AH1XEjbnFP6bn4TCC/view?usp=sharing)
+---
 
-### Blogs posts
+## 🚀 Open Source
+
+### [RulerKit](https://github.com/theadityatiwari/RulerKit)
+> Canvas-powered horizontal ruler picker for Android · Jetpack Compose + XML · Auto unit conversion · Fling snap animation
+
+[![JitPack](https://jitpack.io/v/theadityatiwari/RulerKit.svg)](https://jitpack.io/#theadityatiwari/RulerKit)
+![Kotlin](https://img.shields.io/badge/Kotlin-100%25-purple)
+![MIT](https://img.shields.io/badge/License-MIT-yellow)
+
+Started as a weight picker built for Mamily's BMI tracking screen — expanded into a full generic library.
+```kotlin
+implementation("com.github.theadityatiwari:RulerKit:v1.0.1")
+```
+
+### BmiResultView *(coming soon)*
+> Production-grade BMI arc visualiser — built line by line from scratch for Mamily · Canvas-powered · Fully customizable
+
+---
+
+## 🛠️ Tech Stack
+```
+Mobile       Kotlin · Java · Android SDK · Jetpack Compose · React Native
+Architecture MVVM · Clean Architecture · MVC
+UI           Canvas API · Custom Views · Material Design · XML
+Libraries    Agora SDK · CleverTap · Retrofit · Room · Hilt · Coil · Glide
+Tools        Firebase · Postman · Figma · Git · Android Studio
+```
+
+---
+
+## 📦 Featured Project
+
+### [Mamily — Pregnancy & Maternal Care App](https://play.google.com/store/apps/details?id=com.mamily.android)
+**100K+ downloads · Sole Android Developer**
+
+A maternal healthcare super-app spanning 6 life stages — fertility, pregnancy, parenting and beyond.
+
+- Real-time video consultations via Agora SDK
+- Lab booking, diet tracking, yoga sessions
+- Custom health trackers built entirely on Canvas API
+- Full app instrumented with CleverTap
+
+---
+
+## 📈 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/theadityatiwari?theme=dark&font=Baloo&ext=contest" alt="LeetCode stats"/>
+</p>
+
+> Rating **1500+** · **148-day streak** · Solving daily since Nov 2024
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theadityatiwari&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theadityatiwari&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theadityatiwari&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+---
+
+## ✍️ Latest Articles
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya-tiwari-5a85b8184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-tiwari-5a85b8184" height="30" width="40" /></a>
-<a href="https://instagram.com/theadityatiwari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theadityatiwari_" height="30" width="40" /></a>
-<a href="https://medium.com/@theadityatiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@theadityatiwari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/theadityatiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theadityatiwari" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adityat9179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityat9179" height="30" width="40" /></a>
+📝 I write about Android development, Canvas API, and open source on [Medium](https://medium.com/@theadityatiwari)
+
+---
+
+<p align="center">
+  <i>Open to Senior Android roles at product companies where ownership and craft actually matter</i>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theadityatiwari&show_icons=true&locale=en&layout=compact" alt="theadityatiwari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theadityatiwari&show_icons=true&locale=en" alt="theadityatiwari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theadityatiwari&" alt="theadityatiwari" /></p>
