@@ -56,6 +56,7 @@
 - ⚡ **Complexity Blitz** — gamified Big-O training across 6 languages
 - ⚔️ **ShowDown** — compare two LeetCode profiles head-to-head across 8 categories
 - 🔒 **Privacy first** — no account needed, all data local, API key encrypted with AES-256
+- 📈 **Repo Traction** — 182+ clones, 75+ views, and 2 ⭐ stars in the last 14 days
 
 Built solo with Kotlin · Jetpack Compose · Gemini 2.0 SDK · MVVM · Clean Architecture · Room
 
@@ -80,24 +81,42 @@ Built solo with Kotlin · Jetpack Compose · Gemini 2.0 SDK · MVVM · Clean Arc
 
 [![JitPack](https://jitpack.io/v/theadityatiwari/RulerKit.svg)](https://jitpack.io/#theadityatiwari/RulerKit)
 ![MIT](https://img.shields.io/badge/License-MIT-yellow)
-```kotlin
+
+📈 **Trending (Week 1):** 5 ⭐ Stars · 1 🍴 Fork · 230+ Views · 77+ Clones
+
+kotlin
+```
 implementation("com.github.theadityatiwari:RulerKit:v1.0.1")
 ```
 
-### BmiResultView *(coming soon)*
+## 📊 RulerKit GitHub Traffic (Last 14 Days)
+🔁 77 Clones
+👥 59 Unique Cloners
+👀 230 Views
+🙋 46 Unique Visitors
+⭐ 5 Stars · 1 Fork (within a week)
+
+## 📦 BmiResultView (Coming Soon)
+
 > Production-grade BMI arc visualiser — built line by line from scratch for Mamily · Canvas-powered
+
+- 🎯 Smooth animated BMI arc rendering
+- 🎨 Fully custom Canvas-based drawing
+- ⚡ Optimized for performance & real-time updates
+- 🧩 Easy integration with Compose & XML
 
 ---
 
 ## 🛠️ Tech Stack
-```
-Mobile       Kotlin · Java · Android SDK · Jetpack Compose · React Native
-Architecture MVVM · Clean Architecture · MVC
-UI           Canvas API · Custom Views · Material Design
-Libraries    Agora SDK · CleverTap · Retrofit · Room · Hilt · Coil · Glide
-AI           Google Gemini 2.0 SDK
-Tools        Firebase · Postman · Figma · Git · Android Studio
-```
+
+| Category       | Technologies |
+|----------------|-------------|
+| **Mobile**     | Kotlin · Java · Android SDK · Jetpack Compose · React Native |
+| **Architecture** | MVVM · Clean Architecture · MVC |
+| **UI**         | Canvas API · Custom Views · Material Design |
+| **Libraries**  | Agora SDK · CleverTap · Retrofit · Room · Hilt · Coil · Glide |
+| **AI**         | Google Gemini 2.0 SDK |
+| **Tools**      | Firebase · Postman · Figma · Git · Android Studio |
 
 ---
 
@@ -107,7 +126,9 @@ Tools        Firebase · Postman · Figma · Git · Android Studio
   <img src="https://leetcard.jacoblin.cool/theadityatiwari?theme=dark&font=Baloo&ext=contest" alt="LeetCode stats"/>
 </p>
 
-> Rating **1500+** · **148-day streak** · Solving daily since Nov 2024
+<p align="center">
+  <b>Rating:</b> 1500+ · <b>Streak:</b> 148 days
+</p>
 
 ---
 
@@ -118,18 +139,19 @@ Tools        Firebase · Postman · Figma · Git · Android Studio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theadityatiwari&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theadityatiwari&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
 ---
 
 ## ✍️ Latest Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 🆕 Activity Lifecycle Internals  
+🔗 https://medium.com/@theadityatiwari/activity-lifecycle-internals-c2874be54a97  
+👏 4 claps
 
-📝 I write about Android development, Canvas API, and open source on [Medium](https://medium.com/@theadityatiwari)
+---
+
+## 📝 Medium Stats
+
+- 👏 **Total Claps:** 1000+ claps
 
 ---
 
