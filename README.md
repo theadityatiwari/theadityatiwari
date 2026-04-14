@@ -34,7 +34,7 @@
 - 📊 Instrumented **80+ screens** with CleverTap — feature engagement grew 10x YoY
 - ⚡ Eliminated **83% of redundant API calls** via session-based caching at scale
 - 🔥 LeetCode **1500+ rating · 148-day streak** and still going
-- 📦 Open source library author — **RulerKit** · **BmiResultView** (coming soon)
+- 📦 Open source library author — **RulerKit** · **RevealSlider**
 
 ---
 
@@ -84,26 +84,27 @@ Built solo with Kotlin · Jetpack Compose · Gemini 2.0 SDK · MVVM · Clean Arc
 
 📈 **Trending (Week 1):** 5 ⭐ Stars · 1 🍴 Fork · 230+ Views · 77+ Clones
 
-kotlin
-```
+```kotlin
 implementation("com.github.theadityatiwari:RulerKit:v1.0.1")
 ```
 
-## 📊 RulerKit GitHub Traffic (Last 14 Days)
-🔁 77 Clones
-👥 59 Unique Cloners
-👀 230 Views
-🙋 46 Unique Visitors
-⭐ 5 Stars · 1 Fork (within a week)
+---
 
-## 📦 BmiResultView (Coming Soon)
+### [RevealSlider](https://github.com/theadityatiwari/RevealSlider)
+> Before/After image slider — Canvas-powered · 4 blur effects · Jetpack Compose + XML · Zero dependencies
 
-> Production-grade BMI arc visualiser — built line by line from scratch for Mamily · Canvas-powered
+[![JitPack](https://jitpack.io/v/theadityatiwari/RevealSlider.svg)](https://jitpack.io/#theadityatiwari/RevealSlider)
+[![API](https://img.shields.io/badge/API-24%2B-brightgreen.svg)](https://android-arsenal.com/api?level=24)
+![MIT](https://img.shields.io/badge/License-MIT-yellow)
 
-- 🎯 Smooth animated BMI arc rendering
-- 🎨 Fully custom Canvas-based drawing
-- ⚡ Optimized for performance & real-time updates
-- 🧩 Easy integration with Compose & XML
+- 🎨 **4 effect types** — Gaussian, Frosted Glass, Dark Fade, Pixelate
+- ⚡ **GPU-accelerated blur** — RenderEffect (API 31+) with RenderScript fallback
+- 🧩 **Fully customizable** — divider, handle icon, corner radius, labels, direction
+- 🔧 **Zero heavy dependencies** — works with Glide, Coil, or Picasso via simple bitmap
+
+```kotlin
+implementation("com.github.theadityatiwari:RevealSlider:1.0.0")
+```
 
 ---
 
